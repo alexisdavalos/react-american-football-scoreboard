@@ -56,3 +56,10 @@ button:focus {
 button:active {
   transform: scale(0.99);
 }
+
+.Title{
+  text-align:center;
+  font-size:3rem;
+  margin: 2%;
+  text-transform: uppercase;
+}
